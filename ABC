@@ -1,0 +1,1 @@
+matrix_A(unlist(m),nrow=3,ncol=1)
